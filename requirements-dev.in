@@ -1,3 +1,0 @@
--r services/user_service/requirements.in
--r services/order_service/requirements.in
-pytest>=8,<10
